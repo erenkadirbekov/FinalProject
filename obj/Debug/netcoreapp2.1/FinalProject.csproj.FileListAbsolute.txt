@@ -1,0 +1,123 @@
+C:\Users\Beksultan\source\repos\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.deps.json
+C:\Users\Beksultan\source\repos\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.runtimeconfig.json
+C:\Users\Beksultan\source\repos\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.runtimeconfig.dev.json
+C:\Users\Beksultan\source\repos\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.dll
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.csprojAssemblyReference.cache
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorAssemblyInfo.cache
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorAssemblyInfo.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.AssemblyInfo.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorTargetAssemblyInfo.cache
+C:\Users\Beksultan\source\repos\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.pdb
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.dll
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.pdb
+C:\Users\Beksultan\source\repos\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.Views.dll
+C:\Users\Beksultan\source\repos\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.Views.pdb
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.TagHelpers.input.cache
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.TagHelpers.output.cache
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorCoreGenerate.cache
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Hello\Index.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorTargetAssemblyInfo.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.Views.pdb
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.csproj.CopyComplete
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fight\Create.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fight\Delete.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fight\Details.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fight\Edit.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fight\Index.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Belt\Create.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Belt\Delete.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Belt\Details.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Belt\Edit.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Belt\Index.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fighter\Create.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fighter\Delete.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fighter\Details.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fighter\Edit.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fighter\Index.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\FightsAndFighters\Create.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\FightsAndFighters\Delete.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\FightsAndFighters\Details.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\FightsAndFighters\Edit.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\FightsAndFighters\Index.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Create.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Delete.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Details.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Edit.g.cshtml.cs
+C:\Users\Beksultan\source\repos\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Index.g.cshtml.cs
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\staticwebassets\FinalProject.StaticWebAssets.Manifest.cache
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\staticwebassets\FinalProject.StaticWebAssets.xml
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorAssemblyInfo.cache
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorAssemblyInfo.cs
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.AssemblyInfo.cs
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.TagHelpers.input.cache
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.TagHelpers.output.cache
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.dll
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.pdb
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorCoreGenerate.cache
+C:\Users\Yeren\source\repos\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.csprojAssemblyReference.cache
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.deps.json
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.runtimeconfig.json
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.runtimeconfig.dev.json
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.dll
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.pdb
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.Views.dll
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\bin\Debug\netcoreapp2.1\FinalProject.Views.pdb
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.csprojAssemblyReference.cache
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorAssemblyInfo.cache
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorAssemblyInfo.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.AssemblyInfo.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.TagHelpers.input.cache
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.TagHelpers.output.cache
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorCoreGenerate.cache
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Belt\Create.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Belt\Delete.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Belt\Details.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Belt\Edit.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Belt\Index.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fighter\Create.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fighter\Delete.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fighter\Details.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fighter\Edit.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fighter\Index.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\FightsAndFighters\Create.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\FightsAndFighters\Delete.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\FightsAndFighters\Details.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\FightsAndFighters\Edit.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\FightsAndFighters\Index.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fight\Create.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fight\Delete.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fight\Details.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fight\Edit.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Fight\Index.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Hello\Index.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Create.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Delete.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Details.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Edit.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Index.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\WeightCategory\Create.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\WeightCategory\Delete.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\WeightCategory\Details.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\WeightCategory\Edit.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\WeightCategory\Index.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorTargetAssemblyInfo.cache
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.RazorTargetAssemblyInfo.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.Views.pdb
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.dll
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.pdb
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\FinalProject.csproj.CopyComplete
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\Тынышбай Нуржан\Desktop\FinalProject\FinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListRoles.g.cshtml.cs
