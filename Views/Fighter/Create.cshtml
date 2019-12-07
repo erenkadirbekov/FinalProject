@@ -1,0 +1,58 @@
+@model MilestoneProject.Models.Fighter
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+
+<h4>Fighter</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="wins" class="control-label"></label>
+                <input asp-for="wins" class="form-control" />
+                <span asp-validation-for="wins" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="losts" class="control-label"></label>
+                <input asp-for="losts" class="form-control" />
+                <span asp-validation-for="losts" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="draws" class="control-label"></label>
+                <input asp-for="draws" class="form-control" />
+                <span asp-validation-for="draws" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="weightCategoryId" class="control-label"></label>
+                <select asp-for="weightCategoryId" class ="form-control" asp-items="ViewBag.weightCategoryId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>

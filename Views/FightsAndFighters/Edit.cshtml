@@ -1,0 +1,45 @@
+@model MilestoneProject.Models.FightsAndFighters
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+
+<h4>FightsAndFighters</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="fightsAndFightersId" />
+            <div class="form-group">
+                <label asp-for="fightId" class="control-label"></label>
+                <select asp-for="fightId" class="form-control" asp-items="ViewBag.fightId"></select>
+                <span asp-validation-for="fightId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fighterId" class="control-label"></label>
+                <select asp-for="fighterId" class="form-control" asp-items="ViewBag.fighterId"></select>
+                <span asp-validation-for="fighterId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>
